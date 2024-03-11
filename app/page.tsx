@@ -4,7 +4,7 @@ import { ThemeToggle } from './components/Themetoggle';
 export default function page() {
   return (
     <div>
-        <ThemeToggle/>
+        <h1>page</h1>
     </div>
   );
 }
